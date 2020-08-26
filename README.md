@@ -1,4 +1,4 @@
-# Personal
+# Personal [DEPRECATED]
 
 My personal site, a fork from Highlights by HTML5 UP with my own flair.
 
